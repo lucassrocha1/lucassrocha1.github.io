@@ -1,0 +1,254 @@
+{
+ "catalogVersion": 20260710,
+ "generated": "2026-07-10",
+ "texts": [
+  {
+   "id": "es-a1-ciudad",
+   "title": "Mi día en la ciudad",
+   "lang": "es",
+   "level": "A1",
+   "topic": "Daily Life",
+   "source": "Xolingo originals",
+   "license": "CC0",
+   "url": "",
+   "paragraphs": [
+    "Me llamo Sofía y vivo en una ciudad pequeña. Por la mañana, desayuno café con pan. Después, camino al trabajo. El camino es bonito.",
+    "Trabajo en una biblioteca. Me gusta mi trabajo porque leo muchos libros. A mediodía, como en un parque cerca de la biblioteca.",
+    "Por la tarde, compro fruta en el mercado. El mercado es grande y siempre hay mucha gente. Por la noche, ceno con mi familia y hablamos del día."
+   ]
+  },
+  {
+   "id": "es-a2-axolote",
+   "title": "El axolote, un animal increíble",
+   "lang": "es",
+   "level": "A2",
+   "topic": "Nature",
+   "source": "Xolingo originals",
+   "license": "CC0",
+   "url": "",
+   "paragraphs": [
+    "El axolote es un animal muy especial de México. Vive en el agua toda su vida y respira con branquias externas. Sus branquias parecen plumas rosadas.",
+    "Este animal tiene un poder increíble: puede regenerar partes de su cuerpo. Si pierde una pata, le crece otra nueva. Los científicos estudian al axolote para aprender sus secretos.",
+    "Hoy el axolote está en peligro porque su hogar, los canales de Xochimilco, está contaminado. Muchas personas trabajan para proteger a este animal único."
+   ]
+  },
+  {
+   "id": "es-b1-chocolate",
+   "title": "La historia del chocolate",
+   "lang": "es",
+   "level": "B1",
+   "topic": "Culture",
+   "source": "Xolingo originals",
+   "license": "CC0",
+   "url": "",
+   "paragraphs": [
+    "Mucho antes de llegar a Europa, el chocolate era una bebida sagrada en Mesoamérica. Los mayas y los aztecas preparaban una bebida amarga con semillas de cacao, agua y especias. Las semillas eran tan valiosas que se usaban como moneda.",
+    "Cuando los españoles conocieron el cacao en el siglo dieciséis, lo llevaron a Europa. Allí añadieron azúcar y la bebida se volvió dulce. Durante muchos años, el chocolate fue un lujo reservado para los ricos.",
+    "La invención del chocolate sólido en el siglo diecinueve cambió todo. Hoy el chocolate se disfruta en todo el mundo, aunque pocas personas conocen su largo viaje desde las selvas americanas."
+   ]
+  },
+  {
+   "id": "fr-a1-paris",
+   "title": "Une journée à Paris",
+   "lang": "fr",
+   "level": "A1",
+   "topic": "Travel",
+   "source": "Xolingo originals",
+   "license": "CC0",
+   "url": "",
+   "paragraphs": [
+    "Je m'appelle Léo et je visite Paris aujourd'hui. Le matin, je mange un croissant dans un café. Le café est petit mais très joli.",
+    "Ensuite, je marche le long de la Seine. Je regarde les bateaux et les ponts. Il fait beau et le ciel est bleu.",
+    "L'après-midi, je visite le musée du Louvre. Le soir, je monte à la tour Eiffel. La ville brille sous mes yeux. Quelle belle journée !"
+   ]
+  },
+  {
+   "id": "fr-a2-marche",
+   "title": "Au marché du samedi",
+   "lang": "fr",
+   "level": "A2",
+   "topic": "Daily Life",
+   "source": "Xolingo originals",
+   "license": "CC0",
+   "url": "",
+   "paragraphs": [
+    "Chaque samedi, Camille va au marché de son quartier. Elle achète des légumes frais, du fromage et du pain. Elle connaît tous les vendeurs.",
+    "Son vendeur préféré s'appelle Monsieur Robert. Il vend des pommes et des poires de son jardin. Il raconte toujours des histoires drôles.",
+    "Après le marché, Camille boit un chocolat chaud avec ses amies. Elles parlent de la semaine et rient beaucoup. C'est son moment préféré."
+   ]
+  },
+  {
+   "id": "fr-b1-baguette",
+   "title": "Le secret de la baguette",
+   "lang": "fr",
+   "level": "B1",
+   "topic": "Culture",
+   "source": "Xolingo originals",
+   "license": "CC0",
+   "url": "",
+   "paragraphs": [
+    "La baguette est le symbole de la France, mais son histoire est plus récente qu'on ne le pense. Elle est devenue populaire à Paris au début du vingtième siècle, quand les boulangers cherchaient un pain rapide à cuire.",
+    "Une bonne baguette demande peu d'ingrédients : de la farine, de l'eau, du sel et de la levure. Le secret se trouve dans le temps. La pâte doit reposer longtemps pour développer son goût.",
+    "Chaque année, un concours élit la meilleure baguette de Paris. Le gagnant a l'honneur de livrer son pain au palais présidentiel. Pour les boulangers, c'est la plus belle des récompenses."
+   ]
+  },
+  {
+   "id": "en-a2-london",
+   "title": "A Morning in London",
+   "lang": "en",
+   "level": "A2",
+   "topic": "Travel",
+   "source": "Xolingo originals",
+   "license": "CC0",
+   "url": "",
+   "paragraphs": [
+    "Marta arrives in London early in the morning. The city is still quiet. She buys a cup of tea and walks along the river Thames.",
+    "She sees the big clock tower and takes many photos. A friendly man tells her about the history of the bridge. She understands almost everything.",
+    "At noon, she eats fish and chips in a small shop. The food is warm and delicious. Marta smiles. Her English is getting better every day."
+   ]
+  },
+  {
+   "id": "en-b1-tea",
+   "title": "The Story of Tea",
+   "lang": "en",
+   "level": "B1",
+   "topic": "Culture",
+   "source": "Xolingo originals",
+   "license": "CC0",
+   "url": "",
+   "paragraphs": [
+    "Tea began its journey in ancient China, where legend says a leaf fell into an emperor's cup of hot water. For centuries, tea remained an Asian treasure, unknown to the rest of the world.",
+    "When Dutch and British traders discovered it, tea quickly conquered Europe. It was expensive at first, a luxury for wealthy families who kept it locked in special boxes.",
+    "Today, tea is the most popular drink in the world after water. From Japanese ceremonies to British afternoon tea, every culture has found its own way to enjoy these simple leaves."
+   ]
+  },
+  {
+   "id": "es-b1-vikidia-mexico",
+   "title": "México",
+   "lang": "es",
+   "level": "B1",
+   "topic": "Travel",
+   "source": "Vikidia (es)",
+   "license": "CC BY-SA 3.0",
+   "url": "https://es.vikidia.org/wiki/M%C3%A9xico",
+   "paragraphs": [
+    "México es un país de América. Su capital es la Ciudad de México. Tiene frontera terrestre al norte con Estados Unidos y al sur con Guatemala y Belice. Adicionalmente, tiene frontera marítima con Cuba. Políticamente, México es una república federal, dividida en 32 entidades federativas. La jefe de Estado actual es Claudia Sheinbaum",
+    "Es el undécimo país más poblado del mundo, y el decimotercero más grande, al tener una superficie de 1.984.375 km2. También es considerado un país megadiverso, pues en México habitan más de 12000 especies, muchas de ellas endémicas. El idioma más hablado es el español, pero también se hablan alrededor de 280 lenguas indígenas, y 67 de ellas son oficiales. Por ello, en México hay más personas hablando español que en cualquier otro país.",
+    "La Historia de México comienza con la llegada de los hombres a América por el estrecho de Bering, llegaron siendo nómadas, esto significa que iban de un lugar a otro, vivían de la caza de animales y la recolección de frutos. Al cambiar el clima, algunos animales que el hombre cazaba se acabaron, pero por esos tiempos también el hombre aprendió que habían plantas que podían cosecharse, así se comenzó a desarrollar la agricultura, pero todavía vivían de la caza como medio principal. En los mejores lugares, vivían más tiempo. Cosechaban algunas plantas y engordaban animales. La gente dejó de vivir en cuevas e hicieron casas, así el hombre pasó de ser nómada a ser sedentario, es decir, que habitaban en un solo lugar. Al crecer las aldeas, el hombre fue creando nuevos trabajos. Así habían cazadores, recolectores y sembradores; pero aparecieron nuevos trabajos como tejedores, alfareros y leñadores.",
+    "Para que no les faltara alimento, la gente empezó a aplanar las laderas de los cerros para cultivar ahí, así también construyeron canales y diques para manipular los cursos del agua. También aprendieron a hacer chinampas, que son unas pequeñas balsas con tierra con semillas que se ponen sobre un lago, así ya no se necesita regar. Los habitantes de los primeros pueblos empezaron a intercambiar cosas entre sí, a través del trueque, así nació el comercio. Con la agricultura y el comercio las pequeñas aldeas empezaron a crecer y a hacerse poderosas, así nacieron las primeras ciudades.",
+    "Mientras más grande era una ciudad, también lo era así su sociedad. Empezaron a haber sacerdotes, quienes buscaban la protección de los dioses, y los militares, quienes se ocupaban de proteger las ciudades de otros pueblos. Fueron surgiendo así también nuevos oficios cada vez más complicados, como astrónomos, comerciantes y curanderos."
+   ]
+  },
+  {
+   "id": "es-b1-vikidia-guitarra",
+   "title": "Guitarra",
+   "lang": "es",
+   "level": "B1",
+   "topic": "Culture",
+   "source": "Vikidia (es)",
+   "license": "CC BY-SA 3.0",
+   "url": "https://es.vikidia.org/wiki/Guitarra",
+   "paragraphs": [
+    "Una guitarra es un instrumento musical catalogado en la categoría de cuerda pulsada, que consta de 6 cuerdas, una caja de resonancia de madera curvada, un puente, y clavijas. Su sonido se produce al pulsar o rasguear las cuerdas, produciendo en ellas la vibración que genera el sonido. De este instrumento derivan muchos otros que varían en cuanto a su afinación o la cantidad de cuerdas que poseen, siendo algunos de estos el ukulele, el guitarrón, el cuatro venezolano, la bandola, entre muchos otros.",
+    "A su vez, esta se clasifica en tres distintos tipos: la guitarra eléctrica, la guitarra electroacústica, y la guitarra acústica.",
+    "La guitarra eléctrica es conocida popularmente por ser uno de los instrumentos más característicos de la movida de rock 'n' roll, siendo utilizada por los músicos de la época con cierto tipo de distorsión y efectos especiales."
+   ]
+  },
+  {
+   "id": "fr-a2-vikidia-croissant",
+   "title": "Croissant",
+   "lang": "fr",
+   "level": "A2",
+   "topic": "Culture",
+   "source": "Vikidia (fr)",
+   "license": "CC BY-SA 3.0",
+   "url": "https://fr.vikidia.org/wiki/Croissant",
+   "paragraphs": [
+    "Le croissant est une viennoiserie faite d'une pâte levée feuilletée spécifique appelée « pâte à croissant ». Cette dernière est constituée d'une part importante de beurre. Habituellement consommé au petit déjeuner, il est devenu durant la seconde moitié du XXe siècle un élément important du petit déjeuner français traditionnel.",
+    "La forme caractéristique du croissant est liée au siège de Vienne par les Turcs ottomans en 1683. Les Turcs sont battus par une coalition d'armées européennes commandée par Charles de Lorraine et le roi de Pologne Jean Sobieski. Un des acteurs essentiels du succès est un Polonais installé à Vienne et ancien interprète à Istambul. Comme récompense de ses services, il obtient de droit d'ouvrir un établissement recevant le public où on sert du café (alors un produit nouveau en Europe). Pour accompagner le breuvage il demande à un pâtissier de lui confectionner des petits pains briochés en forme de croissant (le croissant est un symbole fort de l'islam, la religion des Turcs). Ainsi, en mangeant les croissants, les Viennois se rappelleront de la victoire sur les Turcs."
+   ]
+  },
+  {
+   "id": "fr-b1-vikidia-tour-eiffel",
+   "title": "Tour Eiffel",
+   "lang": "fr",
+   "level": "B1",
+   "topic": "Travel",
+   "source": "Vikidia (fr)",
+   "license": "CC BY-SA 3.0",
+   "url": "https://fr.vikidia.org/wiki/Tour%20Eiffel",
+   "paragraphs": [
+    "La tour Eiffel est une tour en fer située sur le Champ de Mars, à Paris, en France. Elle doit son nom à l'ingénieur Gustave Eiffel, qui en est le créateur. Elle a été inaugurée le 31 mars 1889, lors de l'Exposition universelle qui se déroulait à Paris la même année. Sa hauteur est de 330 mètres, en comptant les antennes disposées à son sommet. Au départ, la tour Eiffel devait être détruite après l'Exposition. Son nombre de visiteurs diminua considérablement après 1889, et la baisse du prix du ticket n'y changea rien.",
+    "Gustave Eiffel, sachant très bien que sa tour était en danger, prit l'initiative de l'utiliser pour mener des expériences scientifiques, notamment en météorologie. Puis, l'ingénieur a permis d'installer une antenne pour la télégraphie sans fil au sommet de la tour. En prouvant l'intérêt scientifique de la tour Eiffel, il décourage les autorités d'ordonner sa destruction. La tour Eiffel est redevenue un lieu touristique important, avec l'apparition du tourisme de masse, dans les années 1960.",
+    "La tour Eiffel pèse seulement 10 100 tonnes dont 7300 pour la charpente métallique. C'est très léger : qu'on imagine un parallélépipède dont la base est un carré de 125 m de côté (comme la tour) et de 320 m de haut, la masse de l'air contenu dans ce parallélépipède serait d'environ 6 500 tonnes, à peine moins que la charpente métallique. Rappelons que la densité de l'air à 20 °C est d'environ 1,3 kg/⋅m³, 700 fois moins que l'eau.",
+    "La charpente métallique de la tour Eiffel comporte 18 038 pièces métalliques préfabriquées, assemblées au moyen de 2 500 000 rivets. Le principal travail pour monter la tour était de poser les rivets. Pour évaluer l'avancement des travaux, Gustave Eiffel notait chaque jour le total des rivets posés dans la journée.",
+    "La tour Eiffel est considérée comme le symbole de Paris et de la France. Elle est le monument payant le plus visité au monde, avec près de 7 millions de visiteurs chaque année."
+   ]
+  },
+  {
+   "id": "fr-b1-vikidia-axolotl",
+   "title": "Axolotl",
+   "lang": "fr",
+   "level": "B1",
+   "topic": "Nature",
+   "source": "Vikidia (fr)",
+   "license": "CC BY-SA 3.0",
+   "url": "https://fr.vikidia.org/wiki/Axolotl",
+   "paragraphs": [
+    "L'axolotl (nom scientifique : Ambystoma mexicanum) est un amphibien aquatique de l'ordre des urodèles, Vivant à l'origine dans les lacs Xochimilco et Chalco du centre du Mexique se trouvant à 2 000 mètres d'altitude, ils habitent aussi dans des « axalapascos » (des cratères volcaniques remplis d'eau, généralement dénommés maar). Les eaux de ces lacs ont une température avoisinant au maximum les 20 °C. En hiver, celle-ci chute entre 6 et 7 °C, ou peut-être même moins. e. Cet animal à la particularité, contrairement à la plupart des autres amphibiens, de conserver ses branchies à l'âge adulte.",
+    "Chez les amphibiens, les jeunes à la naissance possèdent des branchies, qui leur permettent de respirer dans l'eau, où ils vivent. Pour passer à l'âge adulte, ils subissent une métamorphose : leurs corps se transforment, ils perdent leurs branchies, et développent des poumons, qui leur permettent de respirer dans l'air. Leurs nageoires se transforment en pattes, et ils deviennent capables de se reproduire.",
+    "L'axolotl, lui, ne se transforme pas. Quand il devient adulte, son corps devient simplement capable de se reproduire et de pondre entre 100 et 300 œufs.",
+    "L'axolotl est un très proche cousin de l'amblystome tigré, un autre amphibien originaire d'Amérique du Nord. Autrefois, on pensait que l'amblystome tigré était la forme adulte de l'axolotl, avant de s'apercevoir qu'il s'agit en fait d'espèces très proches, mais différentes."
+   ]
+  },
+  {
+   "id": "en-b1-wiki-tea",
+   "title": "Tea",
+   "lang": "en",
+   "level": "B1",
+   "topic": "Culture",
+   "source": "Simple English Wikipedia",
+   "license": "CC BY-SA 4.0",
+   "url": "https://simple.wikipedia.org/wiki/Tea",
+   "paragraphs": [
+    "Tea is a caffeinated drink made from steeping the leaves of the Camellia sinensis plant. Tea can have other herbs, spices, or fruit flavors in it, like lemon.",
+    "Sometimes, tea is used for other drinks that have been made by soaking fruit or herbs in hot water, like \"rosehip tea\" or \"chamomile tea\". These are called \"herbal teas\". After water, tea is the most widely consumed drink in the world.",
+    "There are three main types of tea: black tea, oolong, and green tea.",
+    "To make black tea, leaves are dried with hot air until they turn brown or black. Next, they are broken into pieces and put into a room where they absorb oxygen, or oxidize. Chemical reactions change the taste and style of the tea."
+   ]
+  },
+  {
+   "id": "en-b1-wiki-axolotl",
+   "title": "Axolotl",
+   "lang": "en",
+   "level": "B1",
+   "topic": "Nature",
+   "source": "Simple English Wikipedia",
+   "license": "CC BY-SA 4.0",
+   "url": "https://simple.wikipedia.org/wiki/Axolotl",
+   "paragraphs": [
+    "The axolotl (Ambystoma mexicanum) is the best-known of the Mexican mole salamanders: it belongs to the Tiger Salamander complex. The axolotl shows paedomorphosis: the larvae do not undergo metamorphosis, so the adults stay aquatic, with external gills to breathe under water.",
+    "The species evolved in the lake underlying in Mexico City. Axolotls are often used in scientific research because they can regenerate most of their body parts, are easy to breed, and have large embryos.",
+    "Axolotls are closely related to waterdogs, the larval stage of the closely related Tiger salamanders Ambystoma tigrinum and Ambystoma mavortium. These are common in much of North America and also sometimes become neotenic (see #Genetics and development below). The mudpuppies, Necturus, are fully-aquatic salamanders which are not closely related to the axolotl, but look very alike.",
+    "Axolotls are capable of regenerating entire limbs, parts of the spinal cord, the heart, and sections of the brain without scarring. This regeneration is driven by a unique immune response that promotes healing and cellular dedifferentiation, allowing it to regrow complex tissues effectively."
+   ]
+  },
+  {
+   "id": "en-b2-wiki-coffee",
+   "title": "Coffee",
+   "lang": "en",
+   "level": "B2",
+   "topic": "Daily Life",
+   "source": "Simple English Wikipedia",
+   "license": "CC BY-SA 4.0",
+   "url": "https://simple.wikipedia.org/wiki/Coffee",
+   "paragraphs": [
+    "Coffee is a caffeinated drink prepared from roasted coffee beans. It's also a plant (Coffea) and the name of the drink that is made from this plant. The coffee plant is a bush or tree that can grow up to ten meters (about 32 feet) high, but is usually cut shorter. Coffee plants originally grew in Ethiopia, and now also grow in South America, Central America, Southeast Asia and Turkey. They are an important crop for the economies of many countries.",
+    "The drink is made from the seeds of the coffee plant, called coffee beans. Coffee is usually served hot, and is a popular drink in many countries.",
+    "To make a drink from coffee beans, the beans must first be specially prepared by drying the beans and then roasting. The beans are dried a short time after they are picked. This preserves them and makes them ready to be packed or roasted. Before the beans are made into a drink, they must be roasted and ground (crushed into tiny pieces in a coffee mill). When the ground coffee is placed into boiling water, the flavour and dark brown colour of the beans goes into the water. Making coffee is called brewing coffee. There are several different ways that coffee can be brewed.",
+    "Coffee contains a number of useful nutrients, including riboflavin, niacin, magnesium, potassium, and various phenolic compounds, or antioxidants.",
+    "There are two main types of coffee plants: coffea arabica and coffea robusta. Arabica is the most common. Most of the world's coffee is made from Arabica beans Robusta is easier to grow in places where Arabica will not grow."
+   ]
+  }
+ ]
+}
